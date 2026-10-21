@@ -1,5 +1,9 @@
 # ChronoSyn
 
+[[`Paper (to be updated)`](https://github.com/parkjunkil/ChronoSyn/)]
+[[`Project Page (to be update)`](https://github.com/parkjunkil/ChronoSyn/)]
+
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/89f7086d-00fa-4b76-b506-81bb6f50047d"  width="60%" alt="chronology" />
 </p>
