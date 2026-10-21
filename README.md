@@ -1,5 +1,10 @@
 # ChronoSyn
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/89f7086d-00fa-4b76-b506-81bb6f50047d"  width="60%" alt="chronology" />
+</p>
+
+
 ChronoSyn is a composition-only synthesizability prediction model that considers
 **materials discovery chronology** into a PU-learning (positive-unlabeled) setup. Code release for the paper 
 Learning the Chronology of Materials Discovery for Synthesizability Prediction (arxiv, 2026)
