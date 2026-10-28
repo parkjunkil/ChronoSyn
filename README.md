@@ -1,6 +1,6 @@
 # ChronoSyn
 
-[[`Paper (to be updated)`](https://github.com/parkjunkil/ChronoSyn/)]
+[[`Paper (arxiv)`](https://arxiv.org/abs/2610.36193)]
 [[`Project Page (to be update)`](https://github.com/parkjunkil/ChronoSyn/)]
 
 
@@ -116,7 +116,7 @@ arxiv version
 @article{,
   author={Park, Junkil and Walsh, Aron},
   title={Learning the Chronology of Materials Discovery for Synthesizability Prediction},
-  link={to be updated},
+  link={https://arxiv.org/abs/2610.36193},
   year={2026},
 }
 ```
