@@ -1,7 +1,7 @@
 # ChronoSyn
 
 [[`Paper (arxiv)`](https://arxiv.org/abs/2610.36193)]
-[[`Project Page (to be update)`](https://github.com/parkjunkil/ChronoSyn/)]
+[[`Project Page (to be updated)`](https://github.com/parkjunkil/ChronoSyn/)]
 
 
 <p align="center">
